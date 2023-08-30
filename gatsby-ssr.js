@@ -1,7 +1,4 @@
 import React from 'react';
-exports.onRenderBody = ({ setHtmlAttributes }) => {
-  setHtmlAttributes({ lang: "en" })
-}
 
 export function onRenderBody({ setHeadComponents }) {
 setHeadComponents([
