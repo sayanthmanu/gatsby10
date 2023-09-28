@@ -646,7 +646,7 @@ document.addEventListener("cookieyes_consent_update", function (eventData) {
     link.rel = "stylesheet";
     link.type = "text/css";
     link.href =
-"https://fonts.googleapis.com/css?family=Open+Sans:wght@300&display=swap";
+    "https://api.fontshare.com/v2/css?f[]=satoshi@700,500,600,400&display=swap";
     head.appendChild(link);
   }
 });
