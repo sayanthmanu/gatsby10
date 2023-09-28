@@ -13,7 +13,7 @@ Satoshi font family by Indian Type Foundry
 https://www.fontshare.com/fonts/satoshi
 ITF Free Font License (FFL)
 */
-@import url('https://api.fontshare.com/v2/css?f[]=satoshi@700,500,600,400&display=swap');
+@import url('customfont.css');
 
 /* CSS variables
    ============================================= */
