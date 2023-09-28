@@ -5,7 +5,7 @@ setHeadComponents([
     <script
       id='cookieyes'
       type='text/javascript'
-      src='https://scriptstaging.cookieyes.com/client_data/1e4b3b0f9cc2736719714926/script.js'>
+      src='https://cdn-cookieyes.com/client_data/92754a67d9c17a2adf937980/script.js'>
     </script>,
     //   <div className="video">
     //   <iframe
