@@ -9,14 +9,13 @@ setHeadComponents([
     </script>,
       <div className="video">
       <iframe
-        src={"https://www.youtube.com/embed/gCuoVMmes4c"}
-        title={"videoTitle"}
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        frameborder="0"
-        webkitallowfullscreen="true"
-        mozallowfullscreen="true"
-        allowFullScreen
-      />
+        src="https://player.vimeo.com/video/861813479?h=4bb45e91be&color=ec4543" 
+        width="640" 
+        height="267" 
+        frameborder="0" 
+        allow="autoplay; fullscreen; picture-in-picture" 
+        allowfullscreen
+          />
     </div>
  ]);
 }
